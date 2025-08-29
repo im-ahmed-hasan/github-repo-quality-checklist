@@ -5,7 +5,7 @@
 [![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](https://github.com/im-ahmed-hasan/github-repo-setup-qa-guide/blob/main/LICENSE)
 
 A **comprehensive Quality Assurance (QA) checklist** for GitHub repositories —  
-helping you maintain **high code quality**, **streamline workflows**, and **ensure robust security**.
+helping you maintain **high code quality**, **streamline workflows** and **ensure robust security**.
 
 ---
 
